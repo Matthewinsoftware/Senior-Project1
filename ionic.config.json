@@ -1,0 +1,7 @@
+{
+  "name": "mypantry",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
